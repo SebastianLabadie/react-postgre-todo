@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-postgre-todo/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-postgre-todo/static/js/main.765fdf18.chunk.js",
+    "main.js.map": "/react-postgre-todo/static/js/main.765fdf18.chunk.js.map",
+    "runtime-main.js": "/react-postgre-todo/static/js/runtime-main.e7beabf7.js",
+    "runtime-main.js.map": "/react-postgre-todo/static/js/runtime-main.e7beabf7.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/react-postgre-todo/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.96ecfb49.chunk.js": "/react-postgre-todo/static/js/2.96ecfb49.chunk.js",
+    "static/js/2.96ecfb49.chunk.js.map": "/react-postgre-todo/static/js/2.96ecfb49.chunk.js.map",
+    "index.html": "/react-postgre-todo/index.html",
+    "precache-manifest.c878757991cda1120bcf083a0f47e694.js": "/react-postgre-todo/precache-manifest.c878757991cda1120bcf083a0f47e694.js",
+    "service-worker.js": "/react-postgre-todo/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/react-postgre-todo/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-postgre-todo/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.96ecfb49.chunk.js.LICENSE.txt": "/react-postgre-todo/static/js/2.96ecfb49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7beabf7.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.96ecfb49.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.765fdf18.chunk.js"
+  ]
+}
